@@ -62,6 +62,3 @@ Suggested next steps / ideas
 License & Attribution
 - These notebooks are educational examples. If you reuse or adapt code, please retain attribution and add a license of your choice.
 
----
-
-If you want, I can also add a `requirements.txt`, create a small `train.py` script, or open a PR with these changes. Which would you like next?
